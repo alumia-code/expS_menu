@@ -30,7 +30,7 @@ Receives commands from a bluetooth device (serial) and outputs actions to other 
 - `pillow`
   
 # 🖱️ Use
-As mentioned, this server is part of a bigger (multi-system) project (all repositories belonging to this project have `expS` as a prefix). It constitutes the 
+As mentioned, this app is part of a bigger (multi-system) project (all repositories belonging to this project have `expS` as a prefix). It constitutes the 
 menu that is used by the performer to control all the necessary aspects of the used elements: video, audio and light.
 
 The user can:
