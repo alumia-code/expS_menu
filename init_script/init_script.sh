@@ -1,0 +1,3 @@
+#! /bin/bash
+
+sudo <PATH_TO_CONDA_ENV_PYTHON> <PATH_TO_MAIN_MON_SCRIPT>
