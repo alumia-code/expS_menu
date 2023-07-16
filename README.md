@@ -1,7 +1,7 @@
 > ### Developed with and for PhD candidate [Fil Botelho@Orpheus Institute](https://orpheusinstituut.be/en/orpheus-research-centre/researchers/filipa-botelho)
 > This is part of the experimental_system (**expS**) repositories that are present on this github account.
 
-# 📹menu
+# 🔲menu
 `Python` code for a `tkinter` GUI application that serves as the GUI for the experimental system (expS) project.
 
 Receives commands from a bluetooth device (serial) and outputs actions to other machines in the local network via TCP.
